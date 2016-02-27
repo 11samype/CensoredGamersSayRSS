@@ -52,12 +52,25 @@
 	</item>-->
 
 	<item>
+		<title>[Censored] Gamers Say Episode 81: THE LUMBERYARD</title>
+		<pubDate>Fri, 26 Feb 2016 1:00:00 +0000</pubDate>
+		<guid isPermaLink="false">0081</guid>
+		<enclosure url="https://archive.org/download/CensoredGamersSay20160225/censoredGamersSay2016-02-25.mp3" length="71399985" type="audio/mpeg" />
+		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter talk shop, the latest Playstation indie titles, the latest Nintendo handheld titles, and ET. zucchinithumbs@gmail.com</itunes:subtitle>
+		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter talk shop, the latest Playstation indie titles, the latest Nintendo handheld titles, and ET. zucchinithumbs@gmail.com</itunes:summary>
+		<itunes:author>Zucchini Thumbs Cast</itunes:author>
+		<itunes:image href="https://archive.org/download/CensoredGamersSayArt01/NewPodcastArt.png" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:38:58</itunes:duration>
+	</item>
+
+	<item>
 		<title>[Censored] Gamers Say Episode 80: GAME DEV</title>
 		<pubDate>Fri, 26 Feb 2016 1:00:00 +0000</pubDate>
 		<guid isPermaLink="false">0080</guid>
 		<enclosure url="https://archive.org/download/CensoredGamersSay20160220/censoredGamersSay2016-02-20.mp3" length="72402146" type="audio/mpeg" />
-		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); We've been on a gaming spree. Joe plats the Witness and Rocket League while Peter splurges on Sherlock Holmes and King's Quest. The two complain about game development for about 2 hours. zucchinithumbs.com</itunes:subtitle>
-		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); We've been on a gaming spree. Joe plats the Witness and Rocket League while Peter splurges on Sherlock Holmes and King's Quest. The two complain about game development for about 2 hours. zucchinithumbs.com</itunes:summary>
+		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); We've been on a gaming spree. Joe plats the Witness and Rocket League while Peter splurges on Sherlock Holmes and King's Quest. The two complain about game development for about 2 hours. zucchinithumbs@gmail.com</itunes:subtitle>
+		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); We've been on a gaming spree. Joe plats the Witness and Rocket League while Peter splurges on Sherlock Holmes and King's Quest. The two complain about game development for about 2 hours. zucchinithumbs@gmail.com</itunes:summary>
 		<itunes:author>Zucchini Thumbs Cast</itunes:author>
 		<itunes:image href="https://archive.org/download/CensoredGamersSayArt01/NewPodcastArt.png" />
 		<itunes:explicit>yes</itunes:explicit>
@@ -79,7 +92,7 @@
 	
 	<item>
 		<title>[Censored] Gamers Say Episode 78: OPINIONS ARE LIKE BELLY BUTTONS</title>
-		<pubDate>Fri, 29 Jan 2016 1:00:00 +0000</pubDate>
+		<pubDate>Fri, 26 Feb 2016 1:00:00 +0000</pubDate>
 		<guid isPermaLink="false">0078</guid>
 		<enclosure url="https://archive.org/download/CensoredGamersSay20160128/censoredGamersSay2016-01-28.mp3" length="73330016" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter discuss bad opinions, minority opinions, and majority opinions. All wrong in their own right.</itunes:subtitle>
