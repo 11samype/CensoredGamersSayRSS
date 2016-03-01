@@ -1047,6 +1047,7 @@
 		<itunes:author>Zucchini Thumbs Cast</itunes:author>
 		<itunes:image href="http://archive.org/download/CensoredGamersSayArt01/NewPodcastArt.png" />
 		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:22:40</itunes:duration>
 	</item>
 	
 	<item>
@@ -1059,6 +1060,7 @@
 		<itunes:author>Zucchini Thumbs Cast</itunes:author>
 		<itunes:image href="http://archive.org/download/CensoredGamersSayArt01/NewPodcastArt.png" />
 		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:26:13</itunes:duration>
 	</item>
 	
 	<item>
@@ -1071,6 +1073,7 @@
 		<itunes:author>Zucchini Thumbs Cast</itunes:author>
 		<itunes:image href="http://archive.org/download/CensoredGamersSayArt01/NewPodcastArt.png" />
 		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:37:14</itunes:duration>
 	</item>
 	
 	<item>
@@ -1083,6 +1086,7 @@
 		<itunes:author>Zucchini Thumbs Cast</itunes:author>
 		<itunes:image href="http://archive.org/download/CensoredGamersSayArt01/NewPodcastArt.png" />
 		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:37:44</itunes:duration>
 	</item>
 	
 	<item>
@@ -1095,6 +1099,7 @@
 		<itunes:author>Zucchini Thumbs Cast</itunes:author>
 		<itunes:image href="http://archive.org/download/CensoredGamersSayArt01/NewPodcastArt.png" />
 		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:15:43</itunes:duration>
 	</item>
 
 </channel>
