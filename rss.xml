@@ -35,7 +35,7 @@
 	</itunes:owner>
 
 	<!-- MISC: I'M NOT SURE WHAT THESE DO -->
-	<atom:link href="http://raw.githubusercontent.com/11samype/CensoredGamersSayRSS/master/rss.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raw.githubusercontent.com/11samype/CensoredGamersSayRSS/master/rss.xml" rel="self" type="application/rss+xml" />
 	
 	<!-- EXAMPLE ITEM -->
 	<!--<item>
