@@ -13,7 +13,7 @@
 	<!-- RSS2: THESE FIELDS ARE OPTIONAL -->
 	<language>en-US</language>
 	<image>
-		<title>[Censored] Gamers Say</title>
+		<title>[Censored] Gamers Say: Opinions about Video Games</title>
 		<url>http://archive.org/download/CensoredGamersSayArt01/NewPodcastArt.png</url>
 		<link>http://www.zucchinithumbs.com</link>
 	</image>
@@ -54,7 +54,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 81: THE LUMBERYARD</title>
 		<pubDate>Fri, 26 Feb 2016 01:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0081</guid>
+		<guid isPermaLink="false">0000000000000000000081</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20160225/censoredGamersSay2016-02-25.mp3" length="71399985" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter talk shop, the latest Playstation indie titles, the latest Nintendo handheld titles, and ET. zucchinithumbs@gmail.com</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter talk shop, the latest Playstation indie titles, the latest Nintendo handheld titles, and ET. zucchinithumbs@gmail.com</itunes:summary>
@@ -67,7 +67,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 80: GAME DEV</title>
 		<pubDate>Fri, 26 Feb 2016 01:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0080</guid>
+		<guid isPermaLink="false">0000000000000000000080</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20160220/censoredGamersSay2016-02-20.mp3" length="72402146" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); We've been on a gaming spree. Joe plats the Witness and Rocket League while Peter splurges on Sherlock Holmes and King's Quest. zucchinithumbs@gmail.com</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); We've been on a gaming spree. Joe plats the Witness and Rocket League while Peter splurges on Sherlock Holmes and King's Quest. zucchinithumbs@gmail.com</itunes:summary>
@@ -80,7 +80,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 79: WITNESS ME</title>
 		<pubDate>Fri, 26 Feb 2016 01:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0079</guid>
+		<guid isPermaLink="false">0000000000000000000079</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20160206/censoredGamersSay2016-02-06.mp3" length="68604151" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe pokes The Witness, Peter fantasizes about the perfect Guns N Roses reunion, and Nintendo gets a legit online service soon.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe pokes The Witness, Peter fantasizes about the perfect Guns N Roses reunion, and Nintendo gets a legit online service soon.</itunes:summary>
@@ -93,7 +93,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 78: OPINIONS ARE LIKE BELLY BUTTONS</title>
 		<pubDate>Fri, 26 Feb 2016 01:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0078</guid>
+		<guid isPermaLink="false">0000000000000000000078</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20160128/censoredGamersSay2016-01-28.mp3" length="73330016" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter discuss bad opinions, minority opinions, and majority opinions. All wrong in their own right.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter discuss bad opinions, minority opinions, and majority opinions. All wrong in their own right.</itunes:summary>
@@ -106,7 +106,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 77: SECRET SOLOCAST</title>
 		<pubDate>Fri, 22 Jan 2016 01:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0077</guid>
+		<guid isPermaLink="false">0000000000000000000077</guid>
 		<enclosure url="http://archive.org/download/censoredGamersSay2016-01-21/censoredGamersSay2016-01-21.mp3" length="72770159" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter does a solocast, Joe is nowhere to be found.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter does a solocast, Joe is nowhere to be found.</itunes:summary>
@@ -119,7 +119,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 76: HOLIDAY GAMING</title>
 		<pubDate>Tue, 12 Jan 2016 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0076</guid>
+		<guid isPermaLink="false">0000000000000000000076</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20160110/censoredGamersSay2016-01-10.mp3" length="46951253" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter discuss the games they played over the holidays.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter discuss the games they played over the holidays.</itunes:summary>
@@ -132,7 +132,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 75: HOLIDAY NEWS AND NONSENSE</title>
 		<pubDate>Tue, 05 Jan 2016 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0075</guid>
+		<guid isPermaLink="false">0000000000000000000075</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20160103/censoredGamersSay2016-01-03.mp3" length="50476216" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter discuss the news from over the holiday, as well as what they did with their families.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter discuss the news from over the holiday, as well as what they did with their families.</itunes:summary>
@@ -145,7 +145,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 74: CIVIL WAR 2015 PART 2</title>
 		<pubDate>Tue, 29 Dec 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0074</guid>
+		<guid isPermaLink="false">0000000000000000000074</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20151230/censoredGamersSay2015-12-30.mp3" length="57071896" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter rank their personal top 25 games of all time.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter rank their personal top 25 games of all time.</itunes:summary>
@@ -158,7 +158,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 73: CIVIL WAR 2015 PART 1</title>
 		<pubDate>Fri, 18 Dec 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0073</guid>
+		<guid isPermaLink="false">0000000000000000000073</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20151214/censoredGamersSay2015-12-14.mp3" length="50265235" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter rank their personal top 25 games of all time.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter rank their personal top 25 games of all time.</itunes:summary>
@@ -171,7 +171,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 72: SONY IS A JAPANESE COMPANY</title>
 		<pubDate>Tue, 08 Dec 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0072</guid>
+		<guid isPermaLink="false">0000000000000000000072</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20151207/censoredGamersSay2015-12-07.mp3" length="74394714" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter and Joe complain for about 1 hour.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter and Joe complain for about 1 hour.</itunes:summary>
@@ -184,7 +184,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 71: GAME GROUP GRIEVANCES</title>
 		<pubDate>Sun, 06 Dec 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0071</guid>
+		<guid isPermaLink="false">0000000000000000000071</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20151205/censoredGamersSay2015-12-05.mp3" length="32012817" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter complains for about 30 minutes.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter complains for about 30 minutes.</itunes:summary>
@@ -197,7 +197,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 70: SPEAKING OF OUTRAGE</title>
 		<pubDate>Thu, 03 Dec 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0070</guid>
+		<guid isPermaLink="false">0000000000000000000070</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20151202/censoredGamersSay2015-12-02.mp3" length="68336657" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe discusses the finess of finding housing in the South Bay, Peter's Xbox commits seppuko, and things start receiving dates.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe discusses the finess of finding housing in the South Bay, Peter's Xbox commits seppuko, and things start receiving dates.</itunes:summary>
@@ -210,7 +210,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 69: SOLO TURKEY CAST</title>
 		<pubDate>Fri, 27 Nov 2015 12:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0069</guid>
+		<guid isPermaLink="false">0000000000000000000069</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20151127/censoredGamersSay2015-11-27.mp3" length="19073361" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe died from too much turkey, so Peter took solomid this week.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe died from too much turkey, so Peter took solomid this week.</itunes:summary>
@@ -223,7 +223,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 68: NEW TOYS</title>
 		<pubDate>Thu, 19 Nov 2015 12:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0068</guid>
+		<guid isPermaLink="false">0000000000000000000068</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20151118/censoredGamersSay2015-11-18.mp3" length="83217571" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter wars the stars. Joe outs the falls. Amiibos come and go, but friendships last forever. Speaking of which, it's been forever since a proper Mario game came out.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter wars the stars. Joe outs the falls. Amiibos come and go, but friendships last forever. Speaking of which, it's been forever since a proper Mario game came out.</itunes:summary>
@@ -236,7 +236,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 67: TAZER GRENADE LAUNCHER</title>
 		<pubDate>Thu, 12 Nov 2015 12:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0067</guid>
+		<guid isPermaLink="false">0000000000000000000067</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20151111/censoredGamersSay2015-11-11.mp3" length="81357914" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe joins the war machine. Peter extends an offer we can't refuse. Mobile games galore, unsatisfied gamers, and no news being good news.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe joins the war machine. Peter extends an offer we can't refuse. Mobile games galore, unsatisfied gamers, and no news being good news.</itunes:summary>
@@ -249,7 +249,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 66: GET A LIFE</title>
 		<pubDate>Wed, 04 Nov 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0066</guid>
+		<guid isPermaLink="false">0000000000000000000066</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20151103/censoredGamersSay2015-11-03.mp3" length="75816611" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter is a party animal. Joe wastes his precious birthday time. Video game dates are shifted every which way. Donate to our Extra Life page: http://www.extra-life.org/participant/josephbota</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter is a party animal. Joe wastes his precious birthday time. Video game dates are shifted every which way. Donate to our Extra Life page: http://www.extra-life.org/participant/josephbota</itunes:summary>
@@ -262,7 +262,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 65: I GIVE UP ON THIS INDUSTRY</title>
 		<pubDate>Tue, 27 Oct 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">000065</guid>
+		<guid isPermaLink="false">000000000000000000000065</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20151026/censoredGamersSay2015-10-26.mp3" length="83784794" type="audio/mpeg"/>
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter cheats on Rock Band with the IOS version of Guitar Hero. He also encounters some nefarious hackers from 4Chan.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter cheats on Rock Band with the IOS version of Guitar Hero. He also encounters some nefarious hackers from 4Chan.</itunes:summary>
@@ -275,7 +275,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 64: BAH GAWD, MY MACHINES</title>
 		<pubDate>Tue, 20 Oct 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">000064</guid>
+		<guid isPermaLink="false">000000000000000000000064</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20151019/censoredGamersSay2015-10-19.mp3" length="110382828" type="audio/mpeg"/>
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); We lament Tony Hawk 5, but not our drunken decisions. Joe continues to clean up all the aminals in Metal Gear Solid V.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); We lament Tony Hawk 5, but not our drunken decisions. Joe continues to clean up all the aminals in Metal Gear Solid V.</itunes:summary>
@@ -288,7 +288,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 63: BRING BACK BANDICOOT</title>
 		<pubDate>Tue, 13 Oct 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">000063</guid>
+		<guid isPermaLink="false">000000000000000000000063</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20151012/censoredGamersSay2015-10-12.mp3" length="66199057" type="audio/mpeg"/>
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Fandom gets out of control. Rocking out on boats. Humble bundle job cuts.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Fandom gets out of control. Rocking out on boats. Humble bundle job cuts.</itunes:summary>
@@ -301,7 +301,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 62: LET'S ROCK, BABY</title>
 		<pubDate>Sun, 04 Oct 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">000062</guid>
+		<guid isPermaLink="false">000000000000000000000062</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20151006/censoredGamersSay2015-10-06.mp3" length="63770714" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter rocks out with his member out in Rock Band 4. Joe travels across Ohio on a sketchhound bus. Nintendo is making moves in the right direction.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter rocks out with his member out in Rock Band 4. Joe travels across Ohio on a sketchhound bus. Nintendo is making moves in the right direction.</itunes:summary>
@@ -314,7 +314,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 61: BLACK OUTS AND OPS</title>
 		<pubDate>Sun, 27 Sep 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">000061</guid>
+		<guid isPermaLink="false">000000000000000000000061</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150928/censoredGamersSay2015-09-28.mp3" length="75982280" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter has healthy apple sex and plays with LEGO. Joe blacks out. Specs and sizes for the hotest releases. Megaman fanon.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter has healthy apple sex and plays with LEGO. Joe blacks out. Specs and sizes for the hotest releases. Megaman fanon.</itunes:summary>
@@ -327,7 +327,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 60: BONFIRE OF THE VANITIES</title>
 		<pubDate>Sun, 20 Sep 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">000060</guid>
+		<guid isPermaLink="false">000000000000000000000060</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150921/censoredGamersSay2015-09-21.mp3" length="94702828" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter goes back to Rose and lights stuff on fire. Joe eats a lonely pizza. We dog on Nintendo and Konami some more. Japan gets creepy.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter goes back to Rose and lights stuff on fire. Joe eats a lonely pizza. We dog on Nintendo and Konami some more. Japan gets creepy</itunes:summary>
@@ -340,7 +340,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 59: WHY AREN'T THEY UNDERSTANDING</title>
 		<pubDate>Sun, 13 Sep 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">000059</guid>
+		<guid isPermaLink="false">000000000000000000000059</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150914/censoredGamersSay2015-09-14.mp3" length="55658805" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Let's talk football and beer. Let's talk Nintendo and mobile. Let's talk about Kevin.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Let's talk football and beer. Let's talk Nintendo and mobile. Let's talk about Kevin.</itunes:summary>
@@ -353,7 +353,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 58: DOST THOU EVEN AUTO SAVE</title>
 		<pubDate>Sun, 06 Sep 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">000058</guid>
+		<guid isPermaLink="false">000000000000000000000058</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150908/censoredGamersSay2015-09-08.mp3" length="65928794" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe becomes the biggest, bossiest boss. Peter loses saved data. We talk serious video game business, deals, and dumbness.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe becomes the biggest, bossiest boss. Peter loses saved data. We talk serious video game business, deals, and dumbness.</itunes:summary>
@@ -366,7 +366,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 57: WHAT A THRILL</title>
 		<pubDate>Sun, 30 Aug 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">000057</guid>
+		<guid isPermaLink="false">000000000000000000000057</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150830/censoredGamersSay2015-08-30.mp3" length="65505662" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter talk Metal Gear, their dietary habits, and the hottest releases.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter talk Metal Gear, their dietary habits, and the hottest releases.</itunes:summary>
@@ -379,7 +379,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 56: TIMDER</title>
 		<pubDate>Wed, 26 Aug 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0056</guid>
+		<guid isPermaLink="false">0000000000000000000056</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150826/censoredGamersSay2015-08-26.mp3" length="103453640" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11), Tim Ryan (tim_pat_ryan); We share the trials and tribulations of Tinder, tattoos, and Timothy.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11), Tim Ryan (tim_pat_ryan); We share the trials and tribulations of Tinder, tattoos, and Timothy.</itunes:summary>
@@ -392,7 +392,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 55: RESUBSCRIBE AFTER THE 19TH</title>
 		<pubDate>Sun, 16 Aug 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0055</guid>
+		<guid isPermaLink="false">0000000000000000000055</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150816/censoredGamersSay2015-08-16.mp3" length="85364314" type="audio/mpeg" />
 		<itunes:subtitle>REMEMBER TO RESUBSCRIBE TO US ON ITUNES STARTING AUGUST 19TH! Joe (MadMagyar92), Peter Samyn (11samype OR samype11); If you want to keep listening, you should resubscribe on iTunes after the 19th.</itunes:subtitle>
 		<itunes:summary>REMEMBER TO RESUBSCRIBE TO US ON ITUNES STARTING AUGUST 19TH! Joe (MadMagyar92), Peter Samyn (11samype OR samype11); If you want to keep listening, you should resubscribe on iTunes after the 19th.</itunes:summary>
@@ -405,7 +405,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 54: SOUTHEAST ASIAN CUISINE</title>
 		<pubDate>Sun, 09 Aug 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0054</guid>
+		<guid isPermaLink="false">0000000000000000000054</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150809/censoredGamersSay2015-08-09.mp3" length="69272154" type="audio/mpeg" />
 		<itunes:subtitle>REMEMBER TO RESUBSCRIBE TO US ON ITUNES STARTING AUGUST 19TH! Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe has a wild and crazy time in San Francisco; Peter finds homes for his Amiibos on a spice rack; Microsoft kills it at GamesCom.</itunes:subtitle>
 		<itunes:summary>REMEMBER TO RESUBSCRIBE TO US ON ITUNES STARTING AUGUST 19TH! Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe has a wild and crazy time in San Francisco; Peter finds homes for his Amiibos on a spice rack; Microsoft kills it at GamesCom.</itunes:summary>
@@ -418,7 +418,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 53: EXTREME TO THE MAX</title>
 		<pubDate>Tue, 04 Aug 2015 09:00:00 +0000</pubDate>
-		<guid isPermaLink="false">0053</guid>
+		<guid isPermaLink="false">0000000000000000000053</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150803/censoredGamersSay2015-08-03.mp3" length="85546440" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter and Joe have extreme weekends!</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter and Joe have extreme weekends!</itunes:summary>
@@ -431,7 +431,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 52: DESU DESU BOX BOY</title>
 		<pubDate>Wed, 29 Jul 2015 13:00:06 +0000</pubDate>
-		<guid isPermaLink="false">0052</guid>
+		<guid isPermaLink="false">0000000000000000000052</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150726/censoredGamersSay2015-07-26.mp3" length="87074394" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe experiences Facebook, Peter plays Box Boy, we explore the treacherous world of Animu, and China gets a dose of freedom!</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe experiences Facebook, Peter plays Box Boy, we explore the treacherous world of Animu, and China gets a dose of freedom!</itunes:summary>
@@ -444,7 +444,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 51: THANKS FOR THE MEMORIES</title>
 		<pubDate>Sun, 19 Jul 2015 16:56:26 +0000</pubDate>
-		<guid isPermaLink="false">0051</guid>
+		<guid isPermaLink="false">0000000000000000000051</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150718/censoredGamersSay2015-07-18.mp3" length="81079605" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MagMagyar92), Peter Samyn (11samype OR samype11). Satoru Iwata passes away. Peter plays Prototype. Joe watches the Anime. Patches and double crosses galore.</itunes:subtitle>
 		<itunes:summary>Joe (MagMagyar92), Peter Samyn (11samype OR samype11). Satoru Iwata passes away. Peter plays Prototype. Joe watches the Anime. Patches and double crosses galore.</itunes:summary>
@@ -457,7 +457,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 50: WE&#8217;RE ONLY A LITTLE ASHAMED</title>
 		<pubDate>Sun, 12 Jul 2015 23:30:28 +0000</pubDate>
-		<guid isPermaLink="false">0050</guid>
+		<guid isPermaLink="false">0000000000000000000050</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150711/censoredGamersSay2015-07-11.mp3" length="103627720" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11). Joe and Peter spitball about life and field some questions. Edited just to troll you idiots.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11). Joe and Peter spitball about life and field some questions. Edited just to troll you idiots.</itunes:summary>
@@ -470,7 +470,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 49: THE FORGET-ME-CAST</title>
 		<pubDate>Thu, 09 Jul 2015 01:02:14 +0000</pubDate>
-		<guid isPermaLink="false">0049</guid>
+		<guid isPermaLink="false">0000000000000000000049</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150703/censoredGamersSay2015-07-03.mp3" length="65257342" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92) and Peter Samyn (11sampye OR samype11); Joe forgets to upload the podcast. Peter forgets his place. Both these idiots forget that it&#039;s the eve to the founding of the greatest nation ever brought upon this Earth. USA! USA! USA!</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92) and Peter Samyn (11sampye OR samype11); Joe forgets to upload the podcast. Peter forgets his place. Both these idiots forget that it&#039;s the eve to the founding of the greatest nation ever brought upon this Earth. USA! USA! USA!</itunes:summary>
@@ -483,7 +483,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 48: WE MEET OUR HEROES</title>
 		<pubDate>Wed, 01 Jul 2015 01:50:05 +0000</pubDate>
-		<guid isPermaLink="false">0048</guid>
+		<guid isPermaLink="false">0000000000000000000048</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150629/censoredGamersSay2015-06-29.mp3" length="104939902" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter meet the hosts of IGN&#039;s Beyond and Unlocked podcasts, as well as a special, spooky guest. Peter plays... something, Joe&#039;s too drunk to remember.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter meet the hosts of IGN&#039;s Beyond and Unlocked podcasts, as well as a special, spooky guest. Peter plays... something, Joe&#039;s too drunk to remember. Joe becomes starry-eyed when he returns to the land of Majora&#039;s Mask and Costa Rica.</itunes:summary>
@@ -496,7 +496,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 47: POST-E3</title>
 		<pubDate>Sun, 21 Jun 2015 19:26:51 +0000</pubDate>
-		<guid isPermaLink="false">0047</guid>
+		<guid isPermaLink="false">0000000000000000000047</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150621/censoredGamersSay2015-06-21.mp3" length="181932267" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype or samype11); after a long week of E3, Joe and Peter go over each press conference, from worst to best.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype or samype11); after a long week of E3, Joe and Peter go over each press conference, from worst to best.</itunes:summary>
@@ -509,7 +509,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 46: PRE-E3</title>
 		<pubDate>Sun, 14 Jun 2015 08:37:40 +0000</pubDate>
-		<guid isPermaLink="false">0046</guid>
+		<guid isPermaLink="false">0000000000000000000046</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150613/censoredGamersSay2015-06-13.mp3" length="64297708" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Nobody plays anything; the gang makes completely non-bold predictions about E3; news continues to pour out the week before E3; such is life.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Nobody plays anything; the gang makes completely non-bold predictions about E3; news continues to pour out the week before E3; such is life.</itunes:summary>
@@ -522,7 +522,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 45: HARDSHIP AND PERIL</title>
 		<pubDate>Tue, 09 Jun 2015 05:04:42 +0000</pubDate>
-		<guid isPermaLink="false">0045</guid>
+		<guid isPermaLink="false">0000000000000000000045</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150606/censoredGamersSay2015-06-06.mp3" length="79146805" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter hauls himself out to Kansas City; Joe finds his way home; mysteries still linger for this coming E3; the pirate ship is lurking out in the harbor and the hype train is entering the stati...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter hauls himself out to Kansas City; Joe finds his way home; mysteries still linger for this coming E3; the pirate ship is lurking out in the harbor and the hype train is entering the station, ALL ABOARD!</itunes:summary>
@@ -535,7 +535,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 44: AUDIO, AUDIO NEVER CHANGES</title>
 		<pubDate>Tue, 02 Jun 2015 05:58:39 +0000</pubDate>
-		<guid isPermaLink="false">0044</guid>
+		<guid isPermaLink="false">0000000000000000000044</guid>
 		<enclosure url="http://archive.org/download/censoredGamersSay2015-05-31/censoredGamersSay2015-05-31.mp3" length="78417571" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); The audio is a mess this week! Peter gets a degree in alcoholism; Joe plays it safe and just murders gods insteads; Konami backpedals on its mobile nonsense; Nvidia releases a remastered versi...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); The audio is a mess this week! Peter gets a degree in alcoholism; Joe plays it safe and just murders gods insteads; Konami backpedals on its mobile nonsense; Nvidia releases a remastered version of the 980; and Square asks us all to please understand.</itunes:summary>
@@ -548,7 +548,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 43: WE HAVE THE COUCH!</title>
 		<pubDate>Wed, 27 May 2015 03:42:20 +0000</pubDate>
-		<guid isPermaLink="false">0043</guid>
+		<guid isPermaLink="false">0000000000000000000043</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150525/censoredGamersSay2015-05-25.mp3" length="82392154" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter gets into some misadventures after finally finishing college; he also plays some games; Joe also plays some games... and complains about some games; Nintendo&#039;s CEO is looking like a no-s...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter gets into some misadventures after finally finishing college; he also plays some games; Joe also plays some games... and complains about some games; Nintendo&#039;s CEO is looking like a no-show for E3; GTAV is making loads of money.</itunes:summary>
@@ -561,7 +561,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 42: THE VOICE</title>
 		<pubDate>Tue, 19 May 2015 04:56:32 +0000</pubDate>
-		<guid isPermaLink="false">0042</guid>
+		<guid isPermaLink="false">0000000000000000000042</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150517/censoredGamersSay2015-05-17.mp3" length="81011217" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter loses his voice and Joe&#039;s voice malfunctions; Joe dies hard in Battlefield Bad Company; Peter injects new life into Assassins Creed 4 thanks to the power of music; tech talks abound with...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter loses his voice and Joe&#039;s voice malfunctions; Joe dies hard in Battlefield Bad Company; Peter injects new life into Assassins Creed 4 thanks to the power of music; tech talks abound with the release of source code, Oculus rift specs, and some Nvidia shenanigans.</itunes:summary>
@@ -574,7 +574,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 41: NEWS CAST</title>
 		<pubDate>Tue, 12 May 2015 13:05:25 +0000</pubDate>
-		<guid isPermaLink="false">0041</guid>
+		<guid isPermaLink="false">0000000000000000000041</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150511/censoredGamersSay2015-05-11.mp3" length="42619262" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter recount briefly their last hurrah in the Midwest; Peter gets trippy with Hohohohokum; a very large segment of the podcast is dedicated to various, bite-sized news stories.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter recount briefly their last hurrah in the Midwest; Peter gets trippy with Hohohohokum; a very large segment of the podcast is dedicated to various, bite-sized news stories.</itunes:summary>
@@ -587,7 +587,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 40: THE BEST OPENING CINEMATICS</title>
 		<pubDate>Mon, 04 May 2015 01:41:59 +0000</pubDate>
-		<guid isPermaLink="false">0040</guid>
+		<guid isPermaLink="false">0000000000000000000040</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150503/censoredGamersSay2015-05-03.mp3" length="92064931" type="audio/mpeg" />
 		<itunes:subtitle>  - Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter discuss their favorite game openings; Joe tries to remember his week in another installment of Drunk Tales; Peter goes back in time so that he can then go forward in time on...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter discuss their favorite game openings; Joe tries to remember his week in another installment of Drunk Tales; Peter goes back in time so that he can then go forward in time on one long sneaking mission; Steam gets an early access game, loses paid mods, and destroys the American Dollar; a new character-platformer-collectathon-banjo-kazooie-clone is alive.</itunes:summary>
@@ -600,7 +600,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 39: A COUPLE ROUNDS GOING DOWN LIKE WATER</title>
 		<pubDate>Wed, 29 Apr 2015 19:24:24 +0000</pubDate>
-		<guid isPermaLink="false">0039</guid>
+		<guid isPermaLink="false">0000000000000000000039</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150426/censoredGamersSay2015-04-26.mp3" length="102066851" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe recalls Drunk Tales; Peter is on a sneaking mission; Mods, remasters, and E3.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe recalls Drunk Tales; Peter is on a sneaking mission; Mods, remasters, and E3.</itunes:summary>
@@ -613,7 +613,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 38: THE FAST AND THE FURIOUS</title>
 		<pubDate>Sat, 25 Apr 2015 11:00:58 +0000</pubDate>
-		<guid isPermaLink="false">0038</guid>
+		<guid isPermaLink="false">0000000000000000000038</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150412/censoredGamersSay2015-04-12.mp3" length="54980405" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); TOO FAST TOO FURIOUS AAAAAAAAH</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); TOO FAST TOO FURIOUS AAAAAAAAH</itunes:summary>
@@ -626,7 +626,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 37: EMAILS PART DOS</title>
 		<pubDate>Wed, 22 Apr 2015 11:00:32 +0000</pubDate>
-		<guid isPermaLink="false">0037</guid>
+		<guid isPermaLink="false">0000000000000000000037</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay201504111/censoredGamersSay2015-04-111.mp3" length="47018441" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter and Joe discuss what they look for in a job, what they think about Net Neutrality, and their affinity for classic pop rock.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter and Joe discuss what they look for in a job, what they think about Net Neutrality, and their affinity for classic pop rock.</itunes:summary>
@@ -639,7 +639,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 36: EAST MEETS WEST</title>
 		<pubDate>Tue, 21 Apr 2015 00:47:55 +0000</pubDate>
-		<guid isPermaLink="false">0036</guid>
+		<guid isPermaLink="false">0000000000000000000036</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150419/censoredGamersSay2015-04-19.mp3" length="85529982" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe hums along in GTA: Online; Peter plays the best that the West and the Japanese have to offer, like Tony Hawk HD and Metal Gear Solid; Peter pisses of Ubisoft at BoilerFrag 8.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe hums along in GTA: Online; Peter plays the best that the West and the Japanese have to offer, like Tony Hawk HD and Metal Gear Solid; Peter pisses of Ubisoft at BoilerFrag 8.0; Battlefield Heroes goes away, but Battlefront has come to play; Guitar Hero.</itunes:summary>
@@ -652,7 +652,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 35: MIRRORED FOR YOUR AMUSEMENT</title>
 		<pubDate>Tue, 14 Apr 2015 01:23:16 +0000</pubDate>
-		<guid isPermaLink="false">0035</guid>
+		<guid isPermaLink="false">0000000000000000000035</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay201504110/censoredGamersSay2015-04-110.mp3" length="59874760" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter and Joe puzzle out Puzzle Agent 2 and Valiant Hearts; they also platform around in Kick &amp; Fennick and Trine 2: The Complete Story; strange games happen in strange places (like the Vita a...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter and Joe puzzle out Puzzle Agent 2 and Valiant Hearts; they also platform around in Kick &amp; Fennick and Trine 2: The Complete Story; strange games happen in strange places (like the Vita and Android); Joe and Peter talk about BoilerFrag 8.0 and MLG Finals.</itunes:summary>
@@ -665,7 +665,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 34: THE CRASH</title>
 		<pubDate>Tue, 07 Apr 2015 11:00:46 +0000</pubDate>
-		<guid isPermaLink="false">0034</guid>
+		<guid isPermaLink="false">0000000000000000000034</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay201504041/censoredGamersSay2015-04-041.mp3" length="88526280" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter discuss Dead Rising: Watchtower; Peter gets the inside scoop from that game company; April tomfoolery happens; Joe speaks too soon on Valiant Hearts; Nintendo has a direct discus...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter discuss Dead Rising: Watchtower; Peter gets the inside scoop from that game company; April tomfoolery happens; Joe speaks too soon on Valiant Hearts; Nintendo has a direct discussion; State of the Union: Amiibo Edition.</itunes:summary>
@@ -678,7 +678,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 33: DEAD RISING: WATCHTOWER COMMENTARY</title>
 		<pubDate>Mon, 06 Apr 2015 04:21:51 +0000</pubDate>
-		<guid isPermaLink="false">0033</guid>
+		<guid isPermaLink="false">0000000000000000000033</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay201504040/censoredGamersSay2015-04-040.mp3" length="101709939" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter do a blind commentary on the free internet movie Dead Rising: Watchtower, found on Crackle right here: http://www.crackle.com/c/dead-rising-watchtower</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter do a blind commentary on the free internet movie Dead Rising: Watchtower, found on Crackle right here: http://www.crackle.com/c/dead-rising-watchtower</itunes:summary>
@@ -691,7 +691,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 32: THE DAY WE GET SUED</title>
 		<pubDate>Tue, 31 Mar 2015 03:34:52 +0000</pubDate>
-		<guid isPermaLink="false">0032</guid>
+		<guid isPermaLink="false">0000000000000000000032</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150329/censoredGamersSay2015-03-29.mp3" length="83995811" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Instead of lamenting the day the music died, Joe and Peter recall the day the music lived! Peter retells his horrowing tale of a life of theft and how it led him to become a master detective; ...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Instead of lamenting the day the music died, Joe and Peter recall the day the music lived! Peter retells his horrowing tale of a life of theft and how it led him to become a master detective; Joe rises from the ground like a skyscraper; Zelda no longer exists as a game or movie; Metal Gear and Silent Hill are sinking (sunk?) ships.</itunes:summary>
@@ -704,7 +704,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 31: GET TO THE SWAPPER</title>
 		<pubDate>Mon, 23 Mar 2015 02:04:45 +0000</pubDate>
-		<guid isPermaLink="false">0031</guid>
+		<guid isPermaLink="false">0000000000000000000031</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150321/censoredGamersSay2015-03-21.mp3" length="63870920" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe cannot swapping in the Swapper; Peter amasses a small militia of golden Mario Amiibos; Gaben and Kojima team up to create a small city-state known as Outer Heaven.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe cannot swapping in the Swapper; Peter amasses a small militia of golden Mario Amiibos; Gaben and Kojima team up to create a small city-state known as Outer Heaven.</itunes:summary>
@@ -717,7 +717,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 30: EMAILS</title>
 		<pubDate>Sat, 21 Mar 2015 20:10:12 +0000</pubDate>
-		<guid isPermaLink="false">0030</guid>
+		<guid isPermaLink="false">0000000000000000000030</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSayEpisode30/censoredGamersSayEpisode30.mp3" length="43245731" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter celebrate their 30th episode by answering emails.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe and Peter celebrate their 30th episode by answering emails.</itunes:summary>
@@ -730,7 +730,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 29: ALWAYS ONLINE</title>
 		<pubDate>Mon, 16 Mar 2015 06:32:58 +0000</pubDate>
-		<guid isPermaLink="false">0029</guid>
+		<guid isPermaLink="false">0000000000000000000029</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150315/censoredGamersSay2015-03-15.mp3" length="90754730" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Kyle Hutchinson (BachNewton), Peter Samyn (11samype OR samype11); Peter points his way through the puzzles of Sherlock Holmes and Valiant Hearts; Joe is seeking a middle management position as a Prison Architect; Kyle, Peter,</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Kyle Hutchinson (BachNewton), Peter Samyn (11samype OR samype11); Peter points his way through the puzzles of Sherlock Holmes and Valiant Hearts; Joe is seeking a middle management position as a Prison Architect; Kyle, Peter, and Joe discuss the sustainability of VR; Online-only games are exposed!</itunes:summary>
@@ -743,7 +743,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 28: STOP, HE&#8217;S ALREADY DEAD!</title>
 		<pubDate>Tue, 10 Mar 2015 18:52:44 +0000</pubDate>
-		<guid isPermaLink="false">0028</guid>
+		<guid isPermaLink="false">0000000000000000000028</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150307/censoredGamersSay2015-03-07.mp3" length="57958927" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe punches Diablo to death; Peter muses about the universal joy of LittleBigPlanet; Metal Gear Solid V gets a release date; Rock Band 4 gets announced; Engines, engines everywhere!</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe punches Diablo to death; Peter muses about the universal joy of LittleBigPlanet; Metal Gear Solid V gets a release date; Rock Band 4 gets announced; Engines, engines everywhere!</itunes:summary>
@@ -756,7 +756,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 27: ROCK GENERATION</title>
 		<pubDate>Mon, 02 Mar 2015 04:28:46 +0000</pubDate>
-		<guid isPermaLink="false">0027</guid>
+		<guid isPermaLink="false">0000000000000000000027</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150301/censoredGamersSay2015-03-01.mp3" length="70725529" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Kyle Hutchinson (BachNewton), Peter Samyn (11samype OR samype11); Joe and Peter recount Sony exclusives for Kyle; Peter rocks out with his socks out in Rock Band Blitz; Kyle has the Need for Speed: Most Wanted; DirectX 12 does s...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Kyle Hutchinson (BachNewton), Peter Samyn (11samype OR samype11); Joe and Peter recount Sony exclusives for Kyle; Peter rocks out with his socks out in Rock Band Blitz; Kyle has the Need for Speed: Most Wanted; DirectX 12 does some weird stuff.</itunes:summary>
@@ -769,7 +769,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 26: THE WORST BUY</title>
 		<pubDate>Mon, 23 Feb 2015 03:14:20 +0000</pubDate>
-		<guid isPermaLink="false">0026</guid>
+		<guid isPermaLink="false">0000000000000000000026</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150222/censoredGamersSay2015-02-22.mp3" length="85960455" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe remembers what Final Fantasy XII used to look like with component cables; Peter gets screwed by the Best Buy; Peter finishes an Unfinished Swan; Harmonix stages a comeback with Rock Band; ...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe remembers what Final Fantasy XII used to look like with component cables; Peter gets screwed by the Best Buy; Peter finishes an Unfinished Swan; Harmonix stages a comeback with Rock Band; too many Amiibas!</itunes:summary>
@@ -782,7 +782,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 25: WHAT HAVE YOU BECOME, SAHNIC?</title>
 		<pubDate>Thu, 19 Feb 2015 04:24:05 +0000</pubDate>
-		<guid isPermaLink="false">0025</guid>
+		<guid isPermaLink="false">0000000000000000000025</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150215/censoredGamersSay2015-02-15.mp3" length="89950398" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Kyle Hutchinson (BachNewton), Peter Samyn (11samype OR samype11); Joe speedruns any% GTAV&#039;s credits; Peter travels back in time to 2007 with his PS4 to play Super Stardust Ultra; Kyle goes to SPAAACE and humblebrags about Star W...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Kyle Hutchinson (BachNewton), Peter Samyn (11samype OR samype11); Joe speedruns any% GTAV&#039;s credits; Peter travels back in time to 2007 with his PS4 to play Super Stardust Ultra; Kyle goes to SPAAACE and humblebrags about Star Wars games; Sahnic the Hedgie has fallen on rough(er) times.</itunes:summary>
@@ -795,7 +795,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 24: PLEASE SIR, MAY I HAVE SOME MORE?</title>
 		<pubDate>Wed, 11 Feb 2015 04:42:16 +0000</pubDate>
-		<guid isPermaLink="false">0024</guid>
+		<guid isPermaLink="false">0000000000000000000024</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150208/censoredGamersSay2015-02-08.mp3" length="87716981" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Oliver Ceccopieri (Zutano), Kyle Hutchinson (BachNewton), Peter Samyn (11samype OR samype11); Oliver runs naked through the fields in Rust; Peter finds a way to make God of War more like Dark Souls in Apotheon; Kyle thinks Civil...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Oliver Ceccopieri (Zutano), Kyle Hutchinson (BachNewton), Peter Samyn (11samype OR samype11); Oliver runs naked through the fields in Rust; Peter finds a way to make God of War more like Dark Souls in Apotheon; Kyle thinks Civilization V is the worst game since Sliced Bread: The Game; Joe can&#039;t composite Final Fantasy VII; and Sony, Microsoft, and Nintendo happen.</itunes:summary>
@@ -808,7 +808,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 23: NANANANANANANA BIRDMAN</title>
 		<pubDate>Fri, 06 Feb 2015 04:44:38 +0000</pubDate>
-		<guid isPermaLink="false">0023</guid>
+		<guid isPermaLink="false">0000000000000000000023</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150201/censoredGamersSay2015-02-01.mp3" length="76265004" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype or samype11); Peter praises Birdman, our featherly overlord; Joe plays phone games, and he hates them; and the crew discuss godd*mn Amiibas, holy sh*t.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype or samype11); Peter praises Birdman, our featherly overlord; Joe plays phone games, and he hates them; and the crew discuss godd*mn Amiibas, holy sh*t.</itunes:summary>
@@ -821,7 +821,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 22: FREE-ER TO PLAY</title>
 		<pubDate>Thu, 29 Jan 2015 01:55:20 +0000</pubDate>
-		<guid isPermaLink="false">0022</guid>
+		<guid isPermaLink="false">0000000000000000000022</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150125/censoredGamersSay2015-01-25.mp3" length="79420752" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Kyle Hutchinson (BachNewton), Peter Samyn (11samype OR samype11); Kyle mods every Bethesda game to high hell; Joe is late to the party on 2013&#039;s Game of the Year; Peter plays a video game INSIDE THE INTERNET; Peter and Joe try t...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Kyle Hutchinson (BachNewton), Peter Samyn (11samype OR samype11); Kyle mods every Bethesda game to high hell; Joe is late to the party on 2013&#039;s Game of the Year; Peter plays a video game INSIDE THE INTERNET; Peter and Joe try to convince Kyle that Windows 10 is the future; and Nintendo decides to stop giving the gang calenders.</itunes:summary>
@@ -834,7 +834,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 21: THE HELLA-LATE CAST</title>
 		<pubDate>Wed, 21 Jan 2015 18:32:36 +0000</pubDate>
-		<guid isPermaLink="false">0021</guid>
+		<guid isPermaLink="false">0000000000000000000021</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150117/censoredGamersSay2015-01-17.mp3" length="68580249" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe forgot to upload the podcast; Joe starts to burn out with Madden Ultimate Team; Peter doesn&#039;t stop gaming for nobody; Nintendo has a direct about the direction of the Amiibos; and the 3DS ...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Joe forgot to upload the podcast; Joe starts to burn out with Madden Ultimate Team; Peter doesn&#039;t stop gaming for nobody; Nintendo has a direct about the direction of the Amiibos; and the 3DS becomes new again!</itunes:summary>
@@ -847,7 +847,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 20: THE FUNNEST OF 2014</title>
 		<pubDate>Wed, 14 Jan 2015 03:02:45 +0000</pubDate>
-		<guid isPermaLink="false">0020</guid>
+		<guid isPermaLink="false">0000000000000000000020</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150110/censoredGamersSay2015-01-10.mp3" length="87303358" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype), Kyle Hutchinson (BachNewton); Kyle discusses his &quot;funnest of 2014&quot; list; Joe describes the nerdom of football via Madden; and Peter is only 500 levels away from figuring out what makes Desert Golf a maste...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype), Kyle Hutchinson (BachNewton); Kyle discusses his &quot;funnest of 2014&quot; list; Joe describes the nerdom of football via Madden; and Peter is only 500 levels away from figuring out what makes Desert Golf a masterpiece.</itunes:summary>
@@ -860,7 +860,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 19: THE FILLERCAST</title>
 		<pubDate>Tue, 06 Jan 2015 02:28:17 +0000</pubDate>
-		<guid isPermaLink="false">0019</guid>
+		<guid isPermaLink="false">0000000000000000000019</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20150103/censoredGamersSay2015-01-03.mp3" length="28687770" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92) and Peter Samyn (11samype). Joe and Peter fill dead air since nothing has happened this week!</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92) and Peter Samyn (11samype). Joe and Peter fill dead air since nothing has happened this week!</itunes:summary>
@@ -873,7 +873,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 18: NEW YEAR EXTRAVAGANZA</title>
 		<pubDate>Mon, 29 Dec 2014 03:12:58 +0000</pubDate>
-		<guid isPermaLink="false">0018</guid>
+		<guid isPermaLink="false">0000000000000000000018</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20141227/censoredGamersSay2014-12-27.mp3" length="84815039" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92) and Peter Samyn (11samype). Joe and Peter wrap up the new year by discussing their favorite games that they played in 2014! Also includes bonus Soulcalibur drama!</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92) and Peter Samyn (11samype). Joe and Peter wrap up the new year by discussing their favorite games that they played in 2014! Also includes bonus Soulcalibur drama!</itunes:summary>
@@ -886,7 +886,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 17: A SERIES OF TUBES</title>
 		<pubDate>Mon, 22 Dec 2014 03:21:25 +0000</pubDate>
-		<guid isPermaLink="false">0017</guid>
+		<guid isPermaLink="false">0000000000000000000017</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20141220/censoredGamersSay2014-12-20.mp3" length="74499336" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92) and Peter Samyn (11samype). The Wintercast! Joe muses on sending little green men to their doom in Kerbal Space Program; Peter gets into some amateur gardening in Plants Vs. Zombies: Garden Warfare; and Joe and Peter predict Nint...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92) and Peter Samyn (11samype). The Wintercast! Joe muses on sending little green men to their doom in Kerbal Space Program; Peter gets into some amateur gardening in Plants Vs. Zombies: Garden Warfare; and Joe and Peter predict Nintendo&#039;s next console.</itunes:summary>
@@ -899,7 +899,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 16: NINTENDO GAMES ARE OKAY</title>
 		<pubDate>Wed, 17 Dec 2014 15:27:03 +0000</pubDate>
-		<guid isPermaLink="false">0016</guid>
+		<guid isPermaLink="false">0000000000000000000016</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20141213/censoredGamersSay2014-12-13.mp3" length="95173182" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), KyleHutchinson (BachNewton), Peter Samyn (11samype). The gang talks about the PlayStation experience; Joe and Peter are still reeling about Square&#039;s missteps; Joe describes competitive Halo; Peter is all aboard the PvZ Garden Wa...</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), KyleHutchinson (BachNewton), Peter Samyn (11samype). The gang talks about the PlayStation experience; Joe and Peter are still reeling about Square&#039;s missteps; Joe describes competitive Halo; Peter is all aboard the PvZ Garden Warfare fun train; and Kyle plays ancient Nintendo games from the year 2002.</itunes:summary>
@@ -912,7 +912,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 15: THE SONY CONNECTION</title>
 		<pubDate>Tue, 09 Dec 2014 01:07:11 +0000</pubDate>
-		<guid isPermaLink="false">0015</guid>
+		<guid isPermaLink="false">0000000000000000000015</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20141206/censoredGamersSay2014-12-06.mp3" length="93713250" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Kyle Hutchinson (BachNewton), Peter Samyn (11Samype). Joe casts sleep on Kyle and Peter while describing Final Fantasy XIII&#039;s battle system; Peter reviews Smash Bros. for seemingly the third time; Kyle recounts his Summer,</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Kyle Hutchinson (BachNewton), Peter Samyn (11Samype). Joe casts sleep on Kyle and Peter while describing Final Fantasy XIII&#039;s battle system; Peter reviews Smash Bros. for seemingly the third time; Kyle recounts his Summer, MMO days; Joe and Peter jump on the HouseMarque hypetrain.</itunes:summary>
@@ -925,7 +925,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 14: WE HAVE A DOC, WE HAVE A PLAN</title>
 		<pubDate>Tue, 02 Dec 2014 05:00:24 +0000</pubDate>
-		<guid isPermaLink="false">0014</guid>
+		<guid isPermaLink="false">0000000000000000000014</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20141129/censoredGamersSay2014-11-29.mp3" length="96438450" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Kyle Hutchinson (BachNewton), Peter Samyn (11Samype). In this week&#039;s episode, Joe nails the intro and whiffs on his purchases; Peter plays LittleBigPlanet 2 for the tight platforming; and Kyle and the gang recall their backlogs.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Kyle Hutchinson (BachNewton), Peter Samyn (11Samype). In this week&#039;s episode, Joe nails the intro and whiffs on his purchases; Peter plays LittleBigPlanet 2 for the tight platforming; and Kyle and the gang recall their backlogs.</itunes:summary>
@@ -938,7 +938,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 13: TIS THE SEASON TO BE SOCIAL</title>
 		<pubDate>Tue, 25 Nov 2014 19:56:32 +0000</pubDate>
-		<guid isPermaLink="false">0013</guid>
+		<guid isPermaLink="false">0000000000000000000013</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20141122/censoredGamersSay2014-11-22.mp3" length="79507097" type="audio/mpeg" />
 		<itunes:subtitle>Joe (MadMagyar92), Kyle Hutchinson (BachNewton), Brandon Merriman (Kerrminater/Handonium), and Peter Samyn (11Samype). On this week&#039;s episode, Joe and Kyle have a play date with Borderlands and Kerbal; Joe, Brandon, and Peter all discuss Smash Bros.</itunes:subtitle>
 		<itunes:summary>Joe (MadMagyar92), Kyle Hutchinson (BachNewton), Brandon Merriman (Kerrminater/Handonium), and Peter Samyn (11Samype). On this week&#039;s episode, Joe and Kyle have a play date with Borderlands and Kerbal; Joe, Brandon, and Peter all discuss Smash Bros. and the ridiculous Amiibos; and Joe and Peter discuss some indie nonsense.</itunes:summary>
@@ -951,7 +951,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 12: MASSIVE CAST</title>
 		<pubDate>Mon, 17 Nov 2014 01:30:27 +0000</pubDate>
-		<guid isPermaLink="false">0012</guid>
+		<guid isPermaLink="false">0000000000000000000012</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20141115/censoredGamersSay2014-11-15.mp3" length="116384260" type="audio/mpeg" />
 		<itunes:subtitle>THE BIGGER THEY ARE, THE FASTER THEY GET OFF TRACK! In this American-sized episode, not only do we run on for 2+ hours, but we also bring on a fourth chair. Kyle Hutchinson (bachnewton) joins Joe (madmagyar92), Peter Samyn (11samype),</itunes:subtitle>
 		<itunes:summary>THE BIGGER THEY ARE, THE FASTER THEY GET OFF TRACK! In this American-sized episode, not only do we run on for 2+ hours, but we also bring on a fourth chair. Kyle Hutchinson (bachnewton) joins Joe (madmagyar92), Peter Samyn (11samype), and Sydney Harmon (livelovedance00) in discussing a breadth of video game topics.</itunes:summary>
@@ -964,7 +964,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 11: WHERE DO WE GO NOW</title>
 		<pubDate>Tue, 11 Nov 2014 17:30:48 +0000</pubDate>
-		<guid isPermaLink="false">0011</guid>
+		<guid isPermaLink="false">0000000000000000000011</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20141108/censoredGamersSay2014-11-08.mp3" length="92419351" type="audio/mpeg" />
 		<itunes:subtitle>Joe talks about Madden to deafening silence, Peter Samyn struggles with the aging Bioshock series, Sydney Harmon swoons over Portal proposals, and then we begrudgingly talk about Amiibos... Again.</itunes:subtitle>
 		<itunes:summary>Joe talks about Madden to deafening silence, Peter Samyn struggles with the aging Bioshock series, Sydney Harmon swoons over Portal proposals, and then we begrudgingly talk about Amiibos... Again.</itunes:summary>
@@ -977,7 +977,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 10: HOME IS WHERE THE LAUNDRY LIST IS</title>
 		<pubDate>Wed, 05 Nov 2014 00:31:19 +0000</pubDate>
-		<guid isPermaLink="false">0010</guid>
+		<guid isPermaLink="false">0000000000000000000010</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20141101/censoredGamersSay2014-11-01.mp3" length="76561014" type="audio/mpeg" />
 		<itunes:subtitle>Joe decides to never play a new game ever again, Peter Samyn has a laundry list of games to play, including Bioshock, Bayonetta, and Playstation Home, they both have a bone to pick with Sony and Nintendo,</itunes:subtitle>
 		<itunes:summary>Joe decides to never play a new game ever again, Peter Samyn has a laundry list of games to play, including Bioshock, Bayonetta, and Playstation Home, they both have a bone to pick with Sony and Nintendo, while they consider to jump the proverbial fence into Microsoft&#039;s camp.</itunes:summary>
@@ -990,7 +990,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 9: DON&#8217;T FEED THE MACHINE</title>
 		<pubDate>Sun, 26 Oct 2014 04:08:03 +0000</pubDate>
-		<guid isPermaLink="false">0009</guid>
+		<guid isPermaLink="false">0000000000000000000009</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20141025/censoredGamersSay2014-10-25.mp3" length="87327510" type="audio/mpeg" />
 		<itunes:subtitle>Joe balances podcasting with Madden, Peter ranks all the Prince of Persia games that crashed on his PS3, Sydney won&#039;t stop talking about Minecraft, the Pokemon Alpha-Omega demo isn&#039;t a demo, and we rant about Nintendo for the ninth time!</itunes:subtitle>
 		<itunes:summary>Joe balances podcasting with Madden, Peter ranks all the Prince of Persia games that crashed on his PS3, Sydney won&#039;t stop talking about Minecraft, the Pokemon Alpha-Omega demo isn&#039;t a demo, and we rant about Nintendo for the ninth time!</itunes:summary>
@@ -1003,7 +1003,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 8: UNPROFESSIONAL PART DOS</title>
 		<pubDate>Wed, 22 Oct 2014 00:09:14 +0000</pubDate>
-		<guid isPermaLink="false">0008</guid>
+		<guid isPermaLink="false">0000000000000000000008</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20141018/censoredGamersSay2014-10-18.mp3" length="54713110" type="audio/mpeg" />
 		<itunes:subtitle>Edward joins us for but a second time! In this episode, Joe rages about a game that&#039;s been irrelevant for 5 years, Peter discusses how Smash Bros. is only worth 4.5 Elephants, Edward is excited for the next car game,</itunes:subtitle>
 		<itunes:summary>Edward joins us for but a second time! In this episode, Joe rages about a game that&#039;s been irrelevant for 5 years, Peter discusses how Smash Bros. is only worth 4.5 Elephants, Edward is excited for the next car game, everyone agrees that the 3DS is not ergonomic, and Driveclub still doesn&#039;t work.</itunes:summary>
@@ -1016,7 +1016,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 7: FUBAR</title>
 		<pubDate>Wed, 15 Oct 2014 03:13:50 +0000</pubDate>
-		<guid isPermaLink="false">0007</guid>
+		<guid isPermaLink="false">0000000000000000000007</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20141011/CensoredGamersSay2014-10-11.mp3" length="36480790" type="audio/mpeg" />
 		<itunes:subtitle>The show must go on, as Peter exclaims his excitement for Super Smash Bros, Joe raves about his new found conversion to the mobile platform, and Sydney stays eerily silent, watching, waiting, commiserating.</itunes:subtitle>
 		<itunes:summary>The show must go on, as Peter exclaims his excitement for Super Smash Bros, Joe raves about his new found conversion to the mobile platform, and Sydney stays eerily silent, watching, waiting, commiserating.</itunes:summary>
@@ -1029,7 +1029,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 6: WHO&#8217;S IN SMASH BROS?</title>
 		<pubDate>Wed, 15 Oct 2014 01:10:06 +0000</pubDate>
-		<guid isPermaLink="false">0006</guid>
+		<guid isPermaLink="false">0000000000000000000006</guid>
 		<enclosure url="http://archive.org/download/Podcast20141004/Podcast2014-10-04.mp3" length="62819499" type="audio/mpeg" />
 		<itunes:subtitle>Peter takes Joe&#039;s place as host this week. Edward, a guest to the show, tells us about Battlefield and new changes to the game. Peter talks up Smash Bros. on 3DS and Edward guesses the roster. Finally, Sydney takes over the news section. Also,</itunes:subtitle>
 		<itunes:summary>Peter takes Joe&#039;s place as host this week. Edward, a guest to the show, tells us about Battlefield and new changes to the game. Peter talks up Smash Bros. on 3DS and Edward guesses the roster. Finally, Sydney takes over the news section. Also, Disney Princesses.</itunes:summary>
@@ -1042,7 +1042,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 5: THE UNPROFESSIONAL CAST</title>
 		<pubDate>Sun, 28 Sep 2014 03:36:14 +0000</pubDate>
-		<guid isPermaLink="false">0005</guid>
+		<guid isPermaLink="false">0000000000000000000005</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20140927/censoredGamersSay2014-09-27.mp3" length="5242880" type="audio/mpeg" />
 		<itunes:subtitle>Peter convinces Joe to download the Smash Bros. demo, Joe shares horroring stories to Sydney about his Minecraft escapades, Sydney plays a game, I guess, news is also shared, I dunno, and a discussion is had about framerate and how it&#039;s we all largely ...</itunes:subtitle>
 		<itunes:summary>Peter convinces Joe to download the Smash Bros. demo, Joe shares horroring stories to Sydney about his Minecraft escapades, Sydney plays a game, I guess, news is also shared, I dunno, and a discussion is had about framerate and how it&#039;s we all largely agree on everything, sorta. I don&#039;t know how this got uploaded.</itunes:summary>
@@ -1054,7 +1054,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 4: I MIGHT BE A WEABOO</title>
 		<pubDate>Sat, 20 Sep 2014 09:01:48 +0000</pubDate>
-		<guid isPermaLink="false">0004</guid>
+		<guid isPermaLink="false">0000000000000000000004</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20140920/censoredGamersSay2014-09-20.mp3" length="1048576" type="audio/mpeg" />
 		<itunes:subtitle>What has happened? Why can&#039;t I swear? My ears are bleeding! Also, Peter discusses his return to the lusty Soul Calibur Lost Swords, Joe takes another trip down nostalgia lane with Theatrhythm Curtain Call and Final Fantasy Tactics: War of the Lions,</itunes:subtitle>
 		<itunes:summary>What has happened? Why can&#039;t I swear? My ears are bleeding! Also, Peter discusses his return to the lusty Soul Calibur Lost Swords, Joe takes another trip down nostalgia lane with Theatrhythm Curtain Call and Final Fantasy Tactics: War of the Lions, Sydney expresses disappointment with the Microsoft acquisition of Mojang, and everyone realizes what a weirdo Joe is.</itunes:summary>
@@ -1066,7 +1066,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 3: MAYBE IF THEY ALL HAD AFROS</title>
 		<pubDate>Sun, 14 Sep 2014 01:52:07 +0000</pubDate>
-		<guid isPermaLink="false">0003</guid>
+		<guid isPermaLink="false">0000000000000000000003</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20140913/censoredGamersSay2014-09-13.mp3" length="81891338" type="audio/mpeg" />
 		<itunes:subtitle>Joe , Peter Samyn, and guest Brandon Merriman discuss the PlayStation&#039;s good (Final Fantasy Tactics), bad (Rock of the Dead), and ugly (God of War Collection Vita) games, share professional Smash Bros.</itunes:subtitle>
 		<itunes:summary>Joe , Peter Samyn, and guest Brandon Merriman discuss the PlayStation&#039;s good (Final Fantasy Tactics), bad (Rock of the Dead), and ugly (God of War Collection Vita) games, share professional Smash Bros. strategems, appreciate beautiful and hard PS4 games, and ponder what a Microsoft acquisition of Mojang would entail.</itunes:summary>
@@ -1078,7 +1078,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 2: AMIIBO BASICALLY DO NOTHING</title>
 		<pubDate>Tue, 09 Sep 2014 21:23:30 +0000</pubDate>
-		<guid isPermaLink="false">0002</guid>
+		<guid isPermaLink="false">0000000000000000000002</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20140906_201409/censoredGamersSay2014-09-06.mp3" length="82316533" type="audio/mpeg" />
 		<itunes:subtitle>Joe, Sydney Harmon, and Peter Samyn fail to digest the sham that is NTSC&#039;s Disney Singstar, have a therapy session over Peter&#039;s apathy towards Minecraft, discuss why &quot;normal&quot; won&#039;t cut it with druggies,</itunes:subtitle>
 		<itunes:summary>Joe, Sydney Harmon, and Peter Samyn fail to digest the sham that is NTSC&#039;s Disney Singstar, have a therapy session over Peter&#039;s apathy towards Minecraft, discuss why &quot;normal&quot; won&#039;t cut it with druggies, rail on Nintendo some more, make questionable consumer decisions, and determine that no one wants to send us emails.</itunes:summary>
@@ -1090,7 +1090,7 @@
 	<item>
 		<title>[Censored] Gamers Say Episode 1: NINTENDENIAL</title>
 		<pubDate>Tue, 09 Sep 2014 21:08:18 +0000</pubDate>
-		<guid isPermaLink="false">0001</guid>
+		<guid isPermaLink="false">0000000000000000000001</guid>
 		<enclosure url="http://archive.org/download/CensoredGamersSay20140906/censoredGamersSay2014-08-30.mp3" length="63813585" type="audio/mpeg" />
 		<itunes:subtitle>Joe, Sydney Harmon, and Peter Samyn talk about the terrible God of War Collection Vita port, discuss Dark Souls without actually discussing Dark Souls by discussing Dark Souls anyway,</itunes:subtitle>
 		<itunes:summary>Joe, Sydney Harmon, and Peter Samyn talk about the terrible God of War Collection Vita port, discuss Dark Souls without actually discussing Dark Souls by discussing Dark Souls anyway, chronicle the perfectly coherent Kingdom Hearts narrative, pick beefs with Nintendo, and unanimously agree that Final Fantasy Tactics is the greatest game of all time.</itunes:summary>
