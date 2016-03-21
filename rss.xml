@@ -50,6 +50,32 @@
 	</item>-->
 
 	<item>
+		<title>[Censored] Gamers Say Episode 83: ACAPELLA SOLOCAST</title>
+		<pubDate>Tue, 22 Mar 2016 09:00:00 +0000</pubDate>
+		<guid isPermaLink="false">0000000000000000000083</guid>
+		<enclosure url="http://archive.org/download/CensoredGamersSay20160317/censoredGamersSay2016-03-17.mp3" length="21421258" type="audio/mpeg" />
+		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter does what he can to keep the podcast alive.</itunes:subtitle>
+		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter does what he can to keep the podcast alive.</itunes:summary>
+		<itunes:author>Zucchini Thumbs Cast</itunes:author>
+		<itunes:image href="http://archive.org/download/CensoredGamersSayArt01/NewPodcastArt.png" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>29:33</itunes:duration>
+	</item>
+
+	<item>
+		<title>[Censored] Gamers Say Episode 82: LITTLE CABIN IN THE WOODS</title>
+		<pubDate>Mon, 07 Mar 2016 01:00:00 +0000</pubDate>
+		<guid isPermaLink="false">0000000000000000000082</guid>
+		<enclosure url="http://archive.org/download/CensoredGamersSay20160307/censoredGamersSay2016-03-07.mp3" length="78557118" type="audio/mpeg" />
+		<itunes:subtitle>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter goes on vacation to Virginia and Joe is angry. zucchinithumbs@gmail.com</itunes:subtitle>
+		<itunes:summary>Joe (MadMagyar92), Peter Samyn (11samype OR samype11); Peter goes on vacation to Virginia and Joe is angry. zucchinithumbs@gmail.com</itunes:summary>
+		<itunes:author>Zucchini Thumbs Cast</itunes:author>
+		<itunes:image href="http://archive.org/download/CensoredGamersSayArt01/NewPodcastArt.png" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>1:48:54</itunes:duration>
+	</item>
+
+	<item>
 		<title>[Censored] Gamers Say Episode 81: THE LUMBERYARD</title>
 		<pubDate>Fri, 26 Feb 2016 01:00:00 +0000</pubDate>
 		<guid isPermaLink="false">0000000000000000000081</guid>
